@@ -1,6 +1,6 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: LAK Shalom 
+subtitle: Grüne Jugend NDS
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Kaldi?
